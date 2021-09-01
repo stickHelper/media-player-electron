@@ -1,0 +1,19 @@
+{
+    "win32-x64-prod": {
+      "readme": "Second release",
+      "update": "https://filebin.net/1zo73teeyju6djt0",
+      "install": "https://filebin.net/1zo73teeyju6djt0/media-player-electron_Setup_1.0.1.exe",
+      "version": "1.0.1"
+    },
+    "darwin-x64-prod": {
+      "readme": "Second Release",
+      "update": "https://filebin.net/1zo73teeyju6djt0/release.json",
+      "install": "https://filebin.net/1zo73teeyju6djt0/media-player-electron-1.0.1.dmg",
+      "version": "1.0.1"
+    },
+    "linux-x64-prod": {
+      "update": "https://filebin.net/1zo73teeyju6djt0/media-player-electron-1.0.1.AppImage",
+      "install": "https://filebin.net/1zo73teeyju6djt0/media-player-electron-1.0.1.AppImage",
+      "version": "1.0.1"
+    }
+}

@@ -3,6 +3,6 @@
     "update": "https://github.com/stickHelper/media-player-electron/releases/download/linux-x64-prod-1.0.1/media-player-electron-1.0.1.AppImage",
     "install": "https://github.com/stickHelper/media-player-electron/releases/download/linux-x64-prod-1.0.1/media-player-electron-1.0.1.AppImage",
     "version": "1.0.1",
-    "sha256": "c06355d9ab9a8483e57047e0635246993fbc839fa35165c3cb108d7df29f121d"
+    "sha256": "53832cbc7f0a73f12a10cefdfa81f822051f82795803e98e1186ec50fd10c4ec"
   }
 }
